@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Data on Deck
 description: A quirky little blog made by Sangwook Cheon
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/dataondeck" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_repo: sangwookcheon # the GitHub repo name for your project
 github_username: sangwookcheon
