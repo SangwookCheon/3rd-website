@@ -17,12 +17,13 @@ title: Data on Deck
 description: A quirky little blog made by Sangwook Cheon
 baseurl: "/dataondeck" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_repo: sangwookcheon # the GitHub repo name for your project
+github_repo: dataondeck # the GitHub repo name for your project
 github_username: sangwookcheon
 
 # Optional social link, you can choose from the following options:
 # twitter (default), instagram, medium, or dribbble
 social_link: twitter
+medium:
 social_username: jekyllrb
 
 # Set theme color here
