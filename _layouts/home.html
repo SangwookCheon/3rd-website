@@ -10,6 +10,7 @@
       <header class="header-background">
 
         <div class="clearfix border-top-thick top-border">
+          <div class="horizontalStrip"></div>
           <ul class="list-reset right py-1 header-text font-smoothing">
             {% for my_page in site.pages %}
               {% if my_page.title %}
@@ -24,31 +25,18 @@
         <div class="container mx-auto px-2 mb-2 clearfix header-text">
           <h1 class="h0 inline-block col-11 sm-width-full py-3 mt-0 header-title">{{ site.title }}</h1>
 
+          <p style="color: #FFBB00;" class="h2 mt-1 py-1">On Deck</p>
           <div class="clearfix mb-4 py-1">
             <div class="col-4 sm-width-full left border-top-thin">
               <div class="table">
-                <div class="inline-block mt-3 mr-1">
-                  {% include dot-accent.html %}
-                </div>
-                <div class="inline-block mt-3 mr-1">
-                  {% include dot-accent.html %}
-                </div>
-                <div class="inline-block mt-3">
-                  {% include github.html %}
-                </div>
+                <p class="h4 lh-condensed font-smoothing mt-1 py-1">Hello there</p>
               </div>
-              <!-- Set site description in config.yml -->
-              <p class="h4 lh-condensed font-smoothing mt-2 py-1">{{ site.description }}</p>
             </div>
 
             <div class="col-4 sm-width-full left border-top-thin mt-3 mt-lg-0 ml-lg-4 table">
-                <div class="inline-block mt-3 mr-1">
-                  {% include dot.html %}
-                </div>
-                <div class="inline-block mt-3">
-                  {% include {{ site.social_link | default: "twitter" }}.html %}
-                </div>
+              <p class="h4 lh-condensed font-smoothing mt-1 py-1">Hello there</p>
             </div>
+
           </div>
 
         </div>
