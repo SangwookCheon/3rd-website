@@ -5,6 +5,7 @@ date: 2019-07-12
 categories:
   - learningDS
 description: How to add Latitude and Longitude given a location using Geocoder library
+comments: true
 ---
 
 # About Geocoder

@@ -1,13 +1,10 @@
 # coding: utf-8
 
 Gem::Specification.new do |spec|
-  spec.name          = "jekyll-swiss"
+  spec.name          = "experiments"
   spec.version       = "1.0.0"
-  spec.authors       = ["broccolini"]
-  spec.email         = ["diana.mounter@gmail.com"]
-
-  spec.summary       = %q{A bold typographic theme for Jekyll, inspired by Swiss design.}
-  spec.homepage      = "http://broccolini.net/swiss"
+  spec.authors       = ["sangwookchn"]
+  spec.email         = ["sangwookchn@gmail.com"]
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").select do |f|
