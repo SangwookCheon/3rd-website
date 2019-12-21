@@ -10,6 +10,30 @@
   }
 }
 
+.hA {
+  font-size: $hA-mobile;
+  font-family: 'Audiowide', cursive;
+  line-height: 1.0125;
+  margin-top: 0.85em;
+  word-wrap: break-word;
+
+  @media (min-width: $breakpoint-lg) {
+    font-size: $hA-desktop;
+  }
+}
+
+.h1 {
+  font-size: $h1-mobile;
+  line-height: 1.0125;
+  margin-top: 0.85em;
+  word-wrap: break-word;
+
+  @media (min-width: $breakpoint-lg) {
+    font-size: $h1-size;
+  }
+}
+
+
 .text-right { text-align: right; }
 
 .no-underline {
@@ -186,12 +210,22 @@
   }
 }
 
-.horizontalStrip {
+.horizontalStrip1 {
   position: fixed;
   top: 0;
   left: 0;
   width: 100%;
   background-color: $yellow;
+  height: 5px;
+
+}
+
+.horizontalStrip2 {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: $darkblue;
   height: 5px;
 
 }

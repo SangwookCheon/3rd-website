@@ -2,6 +2,8 @@
 @import url('https://fonts.googleapis.com/css?family=Work+Sans&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Abril+Fatface|Montserrat|Overpass|Press+Start+2P&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Audiowide&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Quantico&display=swap');
 
 // Helvetica Neue
 
@@ -13,9 +15,14 @@ $prose-font-size: 20px;
 
 // Type scale
 $h0-mobile: 32px;
-$h0-desktop: 64px;
+$h0-desktop: 48px;
+
+$hA-mobile: 64px;
+$hA-desktop: 100px;
 
 $h1-size: 40px !default;
+$h1-mobile: 30px;
+
 $h2-size: 32px !default;
 $h3-size: 24px !default;
 $h4-size: 20px !default;
