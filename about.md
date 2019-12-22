@@ -4,18 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Swiss is a bold Jekyll theme inspired by Swiss design and the works of Massimo Vignelli. This theme lends itself well to sites heavy on written content.
+Hello, my name is Sangwook Cheon.
 
-### Features:
-* Mobile-first design ensures this theme performs fastest on mobile while scaling elegantly to desktop-size screens.
-* Designed for blogs and sites heavy on written content, with bold typography styles, homepage summaries, and previous/next snippets.
-* Supports a wide range of HTML elements and markdown.
-* Flexible styles that can be reused for customization without adding additional CSS.
-* Simple styling for code snippets (if you want something with syntax highlighting, checkout ....)
-* Dynamically generated navigation links. See docs below for adding pages with specific post category for-loops.
+I am a high school student at Jakarta Intercultural School, passionate about Data Science, computers, and undiscovered gems hidden in the sea of information. I mainly program in Python and use statistics, data analysis, machine learning and other tools to work with data.
 
-## Themes
+## Personal Projects
 
-## Browser Support
-
-## Installation
+## Links
+* [GitHub](https://github.com/SangwookCheon)
+* [Kaggle](https://www.kaggle.com/sangwookchn)
+* [Medium](https://medium.com/@sangwookcheon)
+* [LinkedIn](https://www.linkedin.com/in/sangwookcheon/)

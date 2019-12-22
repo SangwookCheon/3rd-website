@@ -18,7 +18,7 @@ First let's import Geocoder library and other tools:
 import geocoder
 import pandas as pd
 ```
-![](/in-post-images/Screen Shot 2019-07-12 at 22.16.09.png)
+
 Here are the first 10 rows of my cleaned table. In total, there are 103 rows, meaning that there are 103 unique postal codes.
 
 We first need to initialize lat-long coordinates to be an empty list, which will be filled for each postal code and added to the table. We also need to get postal codes from the table.

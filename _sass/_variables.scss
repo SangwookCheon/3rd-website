@@ -4,11 +4,13 @@
 @import url('https://fonts.googleapis.com/css?family=Abril+Fatface|Montserrat|Overpass|Press+Start+2P&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Audiowide&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Quantico&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville&display=swap');
 
 // Helvetica Neue
 
 // Font family
-$body-font-family: "Poppins", Arial, sans-serif;
+$body-font-family: "Open Sans", sans-serif;
 $body-font-size: 16px;
 $prose-font-size: 20px;
 
@@ -21,7 +23,7 @@ $hA-mobile: 64px;
 $hA-desktop: 100px;
 
 $h1-size: 40px !default;
-$h1-mobile: 30px;
+$h1-mobile: 28px;
 
 $h2-size: 32px !default;
 $h3-size: 24px !default;
